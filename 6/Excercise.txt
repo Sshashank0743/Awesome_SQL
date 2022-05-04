@@ -1,0 +1,16 @@
+ * Try to insert data into your new employee table.
+
+Your first three employees are the following:
+ - Jonie Weber, Secretary, 28, 19500.00
+ - Potsy Weber, Programmer, 32, 45300.00
+ - Dirk Smith, Programmer II, 45, 75020.00
+ - Enter these employees into your table first, and then insert at least 5 more of your own list of employees in the table.
+ - After they're inserted into the table, enter select statements to:
+ - Select all columns for everyone in your employee table.
+ - Select all columns for everyone with a salary over 30000.
+ - Select first and last names for everyone that's under 30 years old.
+ - Select first name, last name, and salary for anyone with "Programmer" in their title.
+ - Select all columns for everyone whose last name contains "ebe".
+ - Select the first name for everyone whose first name equals "Potsy".
+ - Select all columns for everyone over 80 years old.
+ - Select all columns for everyone whose last name ends in "ith".
