@@ -4,11 +4,20 @@
 @@ I am looking for self-motivated students interested in SQL at different levels! @@
 ```
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.buymeacoffee.com/shashankshukla)
+
 ### Structured Query Language: An Introduction
 
 > If you have any confusion about the code or want to report a bug, please open an issue.
 
-# Contents
+SQL Repository library aims to reduce the time spent writing repositories. 
+
+Motivation for this library was the boredom of writing SQL or using query builders to do the same thing over and over again in multiple projects.
+
+SQL Repository allows you to fetch, paginate and operate with data easily without adding overhead and following good practices.
+
+# Table Of Contents
+=================
 
 1. [Table Creation](https://github.com/Sshashank0743/SQL/blob/main/1/Table%20creation_1.sql)
 2. [Table Creation_2](https://github.com/Sshashank0743/SQL/blob/main/2/Table%20creation.sql)
