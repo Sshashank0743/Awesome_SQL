@@ -31,4 +31,4 @@ Some helpful codes for SQL are regularly updating in this repositry.
 # Contribution
 If you want to contribute some missing examples or fix some bugs, feel free to open an issue or make a pull request. 
 
-![](https://www.bing.com/images/search?view=detailV2&ccid=MoTclyDu&id=1AB6B964FC9A1715D07A5E94F879CDA90662EB67&thid=OIP.MoTclyDuqd2-02RuZbuMJQHaEM&mediaurl=https%3a%2f%2fmedia.tenor.co%2fimages%2f3284dc9720eea9ddbed3646e65bb8c25%2fraw&exph=282&expw=498&q=you+did+it+GIF&simid=608003254445490682&FORM=IRPRST&ck=DAFBDC9D4C05E1449ACB663F6D57EE64&selectedIndex=29&ajaxhist=0&ajaxserp=0)
+![](https://media.tenor.co/images/3284dc9720eea9ddbed3646e65bb8c25/raw)
