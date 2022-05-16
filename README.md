@@ -4,7 +4,7 @@
 @@ I am looking for self-motivated students interested in SQL at different levels! @@
 ```
 
-[*Structured Query Language: An Introduction*]
+### Structured Query Language: An Introduction
 
 > If you have any confusion about the code or want to report a bug, please open an issue.
 
