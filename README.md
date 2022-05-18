@@ -33,6 +33,7 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 12. [JOINS](https://github.com/Sshashank0743/SQL/blob/main/JOINS/JOIN%20in%20SQL.sql)
 13. [REgular Exp](https://github.com/Sshashank0743/SQL/blob/main/Regular%20exp/REGEXP.sql)
 14. [String](https://github.com/Sshashank0743/SQL/blob/main/STRINGS/string%20functions.sql)
+15. [NESTED](https://github.com/Sshashank0743/SQL/blob/main/Nested/NESTED%20query.sql)
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
