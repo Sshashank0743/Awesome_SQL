@@ -35,6 +35,7 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 14. [String](https://github.com/Sshashank0743/SQL/blob/main/STRINGS/string%20functions.sql)
 15. [NESTED](https://github.com/Sshashank0743/SQL/blob/main/Nested/NESTED%20query.sql)
 16. [VIEW](https://github.com/Sshashank0743/SQL/blob/main/View/VIEW%20Query.sql)
+17. [FUNCTIONS](https://github.com/Sshashank0743/SQL/blob/main/Functions/Ranking%20%26%20First%20value.sql)
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
