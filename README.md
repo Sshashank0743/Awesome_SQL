@@ -10,6 +10,12 @@
 
 > If you have any confusion about the code or want to report a bug, please open an issue.
 
+
+```SQL
+SELECT students FROM sql_course
+
+```
+
 SQL Repository library aims to reduce the time spent writing repositories. 
 
 Motivation for this library was the boredom of writing SQL or using query builders to do the same thing over and over again in multiple projects.
