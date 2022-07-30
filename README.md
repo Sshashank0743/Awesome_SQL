@@ -49,6 +49,7 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 22. [ORDER_BY](https://github.com/Sshashank0743/SQL_Course/tree/main/ORDER_BY)
 23. [NULL](https://github.com/Sshashank0743/SQL_Course/tree/main/NULL)
 24. [MIN_MAX](https://github.com/Sshashank0743/SQL_Course/tree/main/MIN_MAX)
+25. [LIKE](https://github.com/Sshashank0743/SQL_Course/tree/main/LIKE)
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
