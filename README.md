@@ -52,6 +52,7 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 25. [LIKE](https://github.com/Sshashank0743/SQL_Course/tree/main/LIKE)
 26. [IN](https://github.com/Sshashank0743/SQL_Course/tree/main/IN) 
 27. [ALIAS](https://github.com/Sshashank0743/SQL_Course/tree/main/ALIAS)
+28. [COUNT_AVG_SUM](https://github.com/Sshashank0743/SQL_Course/tree/main/COUNT_AVG_SUM)
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
