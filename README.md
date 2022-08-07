@@ -56,6 +56,7 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 26. [IN](https://github.com/Sshashank0743/SQL_Course/tree/main/IN) 
 27. [ALIAS](https://github.com/Sshashank0743/SQL_Course/tree/main/ALIAS)
 28. [COUNT_AVG_SUM](https://github.com/Sshashank0743/SQL_Course/tree/main/COUNT_AVG_SUM)
+29. [BETWEEN](https://github.com/Sshashank0743/SQL_Course/tree/main/BETWEEN)
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
