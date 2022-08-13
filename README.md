@@ -28,7 +28,7 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 ## [ASSIGNMENTS](https://github.com/Sshashank0743/SQL_Course/tree/main/Assignment)
 
 # Basic Queries:
-
+1. [DATA](https://github.com/Sshashank0743/SQL/tree/main/Data)
 2. [Table Creation](https://github.com/Sshashank0743/SQL/tree/main/Table%20Create)
 3. [ALTER](https://github.com/Sshashank0743/SQL/tree/main/ALTER)
 4. [DELETE](https://github.com/Sshashank0743/SQL_Course/tree/main/DELETE)
