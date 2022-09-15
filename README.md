@@ -60,6 +60,13 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
+# RESOURCES:
+
+* [datalemur](https://datalemur.com/)
+* [SQL Challenge](https://8weeksqlchallenge.com/)
+* [SQL Practice Sets](https://mode.com/sql-tutorial/)
+* [W3Schools](https://www.w3schools.com/sql/)
+* [SQLbolt](https://sqlbolt.com/)
 
 # Contribution
 If you want to contribute some missing examples or fix some bugs, feel free to open an issue or make a pull request. 
