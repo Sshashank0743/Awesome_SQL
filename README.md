@@ -10,6 +10,10 @@
 
 > If you have any confusion about the code or want to report a bug, please open an issue.
 
+### What is SQL?
+```
+SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database. And due to its simplicity, SQL databases provide safe and scalable storage for millions of websites and mobile applications.
+```
 
 ```SQL
 SELECT students FROM sql_course
