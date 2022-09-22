@@ -20,6 +20,13 @@ SELECT students FROM sql_course
 
 ```
 
+## Did you know?
+
+```SQL
+All strings must be quoted so that the query parser can distinguish words in the string from SQL keywords.
+
+```
+
 SQL Repository library aims to reduce the time spent writing repositories. 
 
 Motivation for this library was the boredom of writing SQL or using query builders to do the same thing over and over again in multiple projects.
