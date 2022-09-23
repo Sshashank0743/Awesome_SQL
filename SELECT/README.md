@@ -37,3 +37,10 @@
 * Find all the movies directed by John Lasseter
 * Find all the movies (and director) not directed by John Lasseter
 * Find all the WALL-* movies
+
+
+## Exercise 4 — Tasks
+* List all directors of Pixar movies (alphabetically), without duplicates
+* List the last four Pixar movies released (ordered from most recent to least)
+* List the first five Pixar movies sorted alphabetically
+* List the next five Pixar movies sorted alphabetically
