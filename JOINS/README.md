@@ -8,3 +8,8 @@ Database normalization is useful because it minimizes duplicate data in any sing
 
 ## JOIN
 Using the JOIN clause in a query, we can combine row data across two separate tables using this unique key. 
+
+
+## INNER JOIN
+The INNER JOIN is a process that matches rows from the first table and the second table which have the same key (as defined by the ON constraint) to create a result row with the combined columns from both tables.
+
