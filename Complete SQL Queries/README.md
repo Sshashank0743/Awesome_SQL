@@ -64,8 +64,8 @@
 
 
 ## Exercise 5 — Tasks
-List all the Canadian cities and their populations
-Order all the cities in the United States by their latitude from north to south
-List all the cities west of Chicago, ordered from west to east
-List the two largest cities in Mexico (by population)
-List the third and fourth largest cities (by population) in the United States and their population
+* List all the Canadian cities and their populations
+* Order all the cities in the United States by their latitude from north to south
+* List all the cities west of Chicago, ordered from west to east
+* List the two largest cities in Mexico (by population)
+* List the third and fourth largest cities (by population) in the United States and their population
