@@ -23,4 +23,4 @@ The INNER JOIN is a process that matches rows from the first table and the secon
 Exercise 2 — Tasks
 * Find the list of all buildings that have employees
 * Find the list of all buildings and their capacity
-* List all buildings and the distinct employee roles in each building (including empty buildings)
+* List all buildings and the distinct employee roles in each building (including empty buildings) 
