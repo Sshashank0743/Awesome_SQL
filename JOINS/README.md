@@ -13,3 +13,14 @@ Using the JOIN clause in a query, we can combine row data across two separate ta
 ## INNER JOIN
 The INNER JOIN is a process that matches rows from the first table and the second table which have the same key (as defined by the ON constraint) to create a result row with the combined columns from both tables.
 
+
+## Exercise 1 — Tasks
+* Find the domestic and international sales for each movie
+* Show the sales numbers for each movie that did better internationally rather than domestically
+* List all the movies by their ratings in descending order
+
+
+Exercise 2 — Tasks
+* Find the list of all buildings that have employees
+* Find the list of all buildings and their capacity
+* List all buildings and the distinct employee roles in each building (including empty buildings)
