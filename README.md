@@ -39,35 +39,77 @@ SQL Repository allows you to fetch, paginate and operate with data easily withou
 ## [ASSIGNMENTS](https://github.com/Sshashank0743/SQL_Course/tree/main/Assignment)
 
 # Basic Queries:
-1. [DATA](https://github.com/Sshashank0743/SQL/tree/main/Data)
-2. [Table Creation](https://github.com/Sshashank0743/SQL/tree/main/Table%20Create)
-3. [ALTER](https://github.com/Sshashank0743/SQL/tree/main/ALTER)
-4. [DELETE](https://github.com/Sshashank0743/SQL_Course/tree/main/DELETE)
-5. [DISPLAY](https://github.com/Sshashank0743/SQL/tree/main/DISPLAY)
-6. [DROP](https://github.com/Sshashank0743/SQL/tree/main/DROP) 
-7. [DATEDIFF](https://github.com/Sshashank0743/SQL/tree/main/Date_Difference)
-8. [FILTER](https://github.com/Sshashank0743/SQL/tree/main/FILTER)
-9. [FUNCTIONS](https://github.com/Sshashank0743/SQL/tree/main/Functions)
-10. [GROUPBY](https://github.com/Sshashank0743/SQL/tree/main/Group_by)
-11. [INSERT](https://github.com/Sshashank0743/SQL/tree/main/INSERT)
-12. [JOINS](https://github.com/Sshashank0743/SQL/tree/main/JOINS) 
-13. [NESTED](https://github.com/Sshashank0743/SQL/tree/main/Nested)
-14. [Excercises For Practice](https://github.com/Sshashank0743/SQL/tree/main/Practice)
-15. [REgular Exp](https://github.com/Sshashank0743/SQL/tree/main/Regular_exp)
-16. [SQl For Data Analytics](https://github.com/Sshashank0743/SQL/tree/main/SQL%20for%20Data%20Analytics)
-17. [STRING](https://github.com/Sshashank0743/SQL/tree/main/STRINGS)
-18. [VIEW](https://github.com/Sshashank0743/SQL/tree/main/View)
-19. [UPDATE](https://github.com/Sshashank0743/SQL/tree/main/UPDATE)
-20. [WHERE](https://github.com/Sshashank0743/SQL/tree/main/WHERE)
-21. [AND_OR_NOT](https://github.com/Sshashank0743/SQL_Course/tree/main/AND_OR_NOT)
-22. [ORDER_BY](https://github.com/Sshashank0743/SQL_Course/tree/main/ORDER_BY)
-23. [NULL](https://github.com/Sshashank0743/SQL_Course/tree/main/NULL)
-24. [MIN_MAX](https://github.com/Sshashank0743/SQL_Course/tree/main/MIN_MAX)
-25. [LIKE](https://github.com/Sshashank0743/SQL_Course/tree/main/LIKE)
-26. [IN](https://github.com/Sshashank0743/SQL_Course/tree/main/IN) 
-27. [ALIAS](https://github.com/Sshashank0743/SQL_Course/tree/main/ALIAS)
-28. [COUNT_AVG_SUM](https://github.com/Sshashank0743/SQL_Course/tree/main/COUNT_AVG_SUM)
-29. [BETWEEN](https://github.com/Sshashank0743/SQL_Course/tree/main/BETWEEN)
+* [ALIAS](https://github.com/Sshashank0743/SQL_Course/tree/main/ALIAS) 
+
+* [ALTER](https://github.com/Sshashank0743/SQL/tree/main/ALTER)  
+
+* [AND_OR_NOT](https://github.com/Sshashank0743/SQL_Course/tree/main/AND_OR_NOT)
+
+* [ANY_ALL](https://github.com/Sshashank0743/SQL_Course/tree/main/ANY_ALL)      
+
+* [BETWEEN](https://github.com/Sshashank0743/SQL_Course/tree/main/BETWEEN)       
+
+* [COUNT_AVG_SUM](https://github.com/Sshashank0743/SQL_Course/tree/main/COUNT_AVG_SUM)      
+
+* [USE CASES](https://github.com/Sshashank0743/SQL_Course/tree/main/Case)     
+
+* [COMPLETE SQL QUERIES](https://github.com/Sshashank0743/SQL_Course/tree/main/Complete%20SQL%20Queries)   
+
+* [DELETE](https://github.com/Sshashank0743/SQL_Course/tree/main/DELETE)   
+
+* [DISPLAY](https://github.com/Sshashank0743/SQL/tree/main/DISPLAY)    
+
+* [DROP](https://github.com/Sshashank0743/SQL/tree/main/DROP)       
+
+* [DATA](https://github.com/Sshashank0743/SQL/tree/main/Data)     
+
+* [DATEDIFF](https://github.com/Sshashank0743/SQL/tree/main/Date_Difference)    
+
+* [EXISTS](https://github.com/Sshashank0743/SQL_Course/tree/main/EXISTS)       
+
+* [FILTER](https://github.com/Sshashank0743/SQL/tree/main/FILTER)  
+
+* [FUNCTIONS](https://github.com/Sshashank0743/SQL/tree/main/Functions)   
+
+* [GROUPBY](https://github.com/Sshashank0743/SQL/tree/main/Group_by)     
+
+* [IN](https://github.com/Sshashank0743/SQL_Course/tree/main/IN)     
+
+* [INSERT](https://github.com/Sshashank0743/SQL/tree/main/INSERT)     
+
+* [JOINS](https://github.com/Sshashank0743/SQL/tree/main/JOINS)       
+
+* [LIKE](https://github.com/Sshashank0743/SQL_Course/tree/main/LIKE)        
+
+* [MIN_MAX](https://github.com/Sshashank0743/SQL_Course/tree/main/MIN_MAX)
+
+* [NULL](https://github.com/Sshashank0743/SQL_Course/tree/main/NULL)
+
+* [NESTED](https://github.com/Sshashank0743/SQL/tree/main/Nested)
+
+* [ORDER_BY](https://github.com/Sshashank0743/SQL_Course/tree/main/ORDER_BY)
+
+* [Practice Excercise](https://github.com/Sshashank0743/SQL/tree/main/Practice)
+
+* [REgular Exp](https://github.com/Sshashank0743/SQL/tree/main/Regular_exp)
+
+* [SQL For Data Analytics](https://github.com/Sshashank0743/SQL/tree/main/SQL%20for%20Data%20Analytics)
+
+* [SQL Keywords](https://github.com/Sshashank0743/SQL_Course/tree/main/SQL_Keywords)
+
+* [STRING](https://github.com/Sshashank0743/SQL/tree/main/STRINGS)
+
+* [Table Creation](https://github.com/Sshashank0743/SQL/tree/main/Table%20Create)
+
+* [UNION](https://github.com/Sshashank0743/SQL_Course/tree/main/UNION)
+
+* [UPDATE](https://github.com/Sshashank0743/SQL/tree/main/UPDATE)
+
+* [VIEW](https://github.com/Sshashank0743/SQL/tree/main/View)
+
+* [WHERE](https://github.com/Sshashank0743/SQL/tree/main/WHERE)
+
+
 
 Some helpful codes for SQL are regularly updating in this repositry.
 
