@@ -120,8 +120,7 @@ Some helpful codes for SQL are regularly updating in this repositry.
 * [SQL Practice Sets](https://mode.com/sql-tutorial/)
 * [W3Schools](https://www.w3schools.com/sql/)
 * [SQLbolt](https://sqlbolt.com/)
-* [8 Weeks SQl Challenge](https://8weeksqlchallenge.com/)
-* [MODE SQL](https://mode.com/sql-tutorial/)
+
 
 
 # Contribution
