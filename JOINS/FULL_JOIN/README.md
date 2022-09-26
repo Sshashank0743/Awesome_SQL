@@ -15,6 +15,7 @@
 | 12	| Cars 2	| John Lasseter	| 2011	| 120
 | 13	| Brave	| Brenda Chapman	| 2012	| 102
 | 14	| Monsters University	| Dan Scanlon	| 2013	| 110
+
 				
 				
 | Movie_id	| Rating	| Domestic_sales	| International_sales	|
@@ -32,5 +33,14 @@
 | 10	| 8.3	| 293004164	| 438338580	
 | 4	| 8.1	| 289916256	| 272900000	
 | 2	| 7.2	| 162798565	| 200600000	
-| 13	| 7.2	| 237283207	| 301700000	
+| 13	| 7.2	| 237283207	| 301700000
+
+
+Exercise 1 — Tasks
+* Find the list of all buildings that have employees
+* Find the list of all buildings and their capacity
+* List all buildings and the distinct employee roles in each building (including empty buildings)
+
+
+
 
