@@ -156,6 +156,8 @@ Some helpful codes for SQL are regularly updating in this repositry.
 * [W3Schools](https://www.w3schools.com/sql/)
 * [SQLbolt](https://sqlbolt.com/)
 
+# CONCLUSION:
+We hope the lessons have given you a bit more experience with SQL and a bit more confidence to use SQL with your own data.
 
 
 # Contribution
