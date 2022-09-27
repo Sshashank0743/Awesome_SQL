@@ -1,5 +1,7 @@
 # SQL: An Introduction
 
+This Repository is designed for people who want to answer questions with data.
+
 ```diff
 @@ I am looking for self-motivated students interested in SQL at different levels! @@
 ```
