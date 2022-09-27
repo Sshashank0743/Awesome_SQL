@@ -33,3 +33,10 @@
 | 4	| 8.1	| 289916256	| 272900000	
 | 2	| 7.2	| 162798565	| 200600000	
 | 13	| 7.2	| 237283207	| 301700000
+
+
+
+## Exercise 1 — Tasks
+
+* Add the studio's new production, Toy Story 4 to the list of movies (you can use any director)
+* Toy Story 4 has been released to critical acclaim! It had a rating of 8.7, and made 340 million domestically and 270 million internationally. Add the record to the BoxOffice table.
