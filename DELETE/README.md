@@ -1,3 +1,18 @@
+## Deleting rows
+
+When you need to delete data from a table in the database, you can use a DELETE statement, which describes the table to act on, and the rows of the table to delete through the WHERE clause.
+
+``` SQL
+Delete statement with condition
+DELETE FROM mytable
+WHERE condition;
+
+```
+
+If you decide to leave out the WHERE constraint, then all rows are removed, which is a quick and easy way to clear out a table completely (if intentional).
+
+
+
 | Id	| Title	 | Director	| Year	| Length_minutes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1	  |Toy Story	| John Lasseter	| 1995	| 81
