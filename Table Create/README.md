@@ -1,3 +1,7 @@
+When you have new entities and relationships to store in your database, you can create a new database table using the CREATE TABLE statement.
+
+
+
 | name	      | continent	| area	   | population	| gdp
 | :---------- |:-------:  | -----:   |:---------- |:----
 | Afghanistan	| Asia	    | 652230   | 25500100	  | 20343000000
