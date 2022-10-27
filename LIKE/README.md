@@ -1,3 +1,6 @@
+# WHERE Clause:
+Once you know how to view some data using SELECT and FROM, the next step is filtering the data using the WHERE clause.
+
 | LIKE Operator	                  | Description |
 | ---------------------             | ----------- |
 | WHERE CustomerName LIKE 'a%'	| Finds any values that start with "a" |
