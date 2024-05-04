@@ -8,13 +8,15 @@ This Repository is designed for people who want to answer questions with data.
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.buymeacoffee.com/shashankshukla)
 
+[Youtube Video tutorial](https://youtu.be/709OkdR6Ers)
+
 ### Structured Query Language: An Introduction
 
 > If you have any confusion about the code or want to report a bug, please open an issue.
 
 ### What is SQL?
 
-SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database. And due to its simplicity, SQL databases provide safe and scalable storage for millions of websites and mobile applications.
+SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users to query, manipulate, and transform data from a relational database. And due to its simplicity, SQL databases provide safe and scalable storage for millions of websites and mobile applications.
 
 
 ```SQL
